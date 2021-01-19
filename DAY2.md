@@ -31,7 +31,12 @@ new/key shortcuts
 Jupyter :  
  블럭 끊기<kbd>ctrl + shift + -  </kbd>  
  블럭 합치기<kbd> shift + m </kbd>  
+   
+ Code vision:  
+ 기능 불러오기<kbd> ctrl + shift + P</kbd>  
  
- <span style="color:blue">내가 중요하다고 생각한 것 </span>  
- <span style=“color:red;”> text </span>
-
+과제 빡쎘던 점
+============
+git 명령어 처음 써봄  
+cmder에서 dir 난잡하게 생성하면 clone 이랑 update 헷갈림  
+ls 등의 명령어 써보면서 tab 써보니까 편하긴 했음
