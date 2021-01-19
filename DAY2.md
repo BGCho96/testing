@@ -39,4 +39,5 @@ Jupyter :
 ============
 git 명령어 처음 써봄  
 cmder에서 dir 난잡하게 생성하면 clone 이랑 update 헷갈림  
-ls 등의 명령어 써보면서 tab 써보니까 편하긴 했음
+ls 등의 명령어 써보면서 tab 써보니까 편하긴 했음  
+오늘은 사실상 markdown 이랑 github 활용해서 과제 feedback에서 시간 다뺏겨서 다른거 정리를 많이 못했다....  
